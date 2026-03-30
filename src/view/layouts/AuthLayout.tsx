@@ -11,7 +11,7 @@ export function AuthLayout() {
                 <img src={logo2} className='h-6' />
 
 
-                <div className='bg-red-500 w-full max-w-[504px] px-8'>
+                <div className='w-full max-w-[504px] px-8'>
                  <Outlet />
                 </div>
             </div>
