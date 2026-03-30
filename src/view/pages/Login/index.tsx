@@ -1,5 +1,5 @@
 export function Login() {
     return (
-     <h1>Oi</h1>
+     <h1>Login page</h1>
     )
 }
